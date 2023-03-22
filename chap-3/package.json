@@ -1,0 +1,18 @@
+{
+  "name": "chap-3",
+  "version": "1.0.0",
+  "description": "hands_on_typescript_chap_3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@github.com/icetweak"
+  },
+  "author": "Roman Savoshchik",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
